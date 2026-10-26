@@ -1,16 +1,8 @@
-# React + Vite
+## Lancement du serveur de développement avec Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+<img width="1270" height="674" alt="1" src="im/Capture d'écran 2026-10-26 133900.png" />
 
-Currently, two official plugins are available:
+## Affichage de l’application React dans le navigateur
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<img width="1270" height="674" alt="1" src="im/Capture d'écran 2026-10-26 134719.png" />
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
